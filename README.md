@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,arduino,postgres)](https://skillicons.dev)
 
 <!--
