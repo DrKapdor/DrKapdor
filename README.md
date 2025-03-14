@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">
+<span align="center">
   Обучаюсь на направлении 09.03.02 «Информационные системы и технологии»<br> 
   по профилизациии «Системное программное обеспечение»<br><br>
   
@@ -14,4 +14,4 @@
   <img align="center" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</h2>
+</span>
