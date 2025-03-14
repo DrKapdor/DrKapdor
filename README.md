@@ -1,6 +1,5 @@
 <h2 align="center">
   Здравствуйте! Меня зовут Константин.<br><br> 
-  <img align="center" src="https://github.com/user-attachments/assets/d5964d48-d18b-4565-97a7-271eb510ada4">
 </h1>
 
 
