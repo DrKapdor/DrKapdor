@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-  Обучаюсь по направлению 09.03.02 «Информационные системы и технологии» с профилизацией «Системное программное обеспечение»
+  Обучаюсь по направлению 09.03.02 «Информационные системы и технологии» с профилизацией «Системное программное обеспечение»<br>
   Обладаю познаниями в следующих областях<br><br>
   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
