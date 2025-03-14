@@ -1,7 +1,7 @@
 <h3 align="center">
   Здравствуйте! Меня зовут Константин.<br>
 </h3>
-<div id="about" align="center">
+<div id="about" align="center" style="display: inline-block">
   Являюсь студентом Российского технологического университета<br>
   по направлению <strong>09.03.02 «Информационные системы и технологии»</strong><br> 
   с профилизацией <strong>«Системное программное обеспечение»</strong>.<br><br>
