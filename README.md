@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3 align="center" size=16>
   Здравствуйте! Меня зовут Константин.<br>
 </h3>
 <div id="about" align="center">
