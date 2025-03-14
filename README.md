@@ -1,3 +1,4 @@
+Основные специализации моей деятельности:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,arduino,postgres&theme=light)](https://skillicons.dev)
 
 <!--
