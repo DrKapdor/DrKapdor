@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  Обладаю навыками работы со следующими технологиями:<br><br>
+  <strong>Обладаю навыками работы со следующими технологиями:</strong><br><br>
   <img align="center" height=64 src="https://github.com/DrKapdor/DrKapdor/blob/main/icons/java.png?raw=true">
   <img align="center" height=64 src="https://github.com/DrKapdor/DrKapdor/blob/main/icons/cpp.png?raw=true">
   <img align="center" height=64 src="https://github.com/DrKapdor/DrKapdor/blob/main/icons/postgres.png?raw=true">
