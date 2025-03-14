@@ -1,6 +1,6 @@
-<h2 align="center">
+<h3 align="center">
   Здравствуйте! Меня зовут Константин.<br><br> 
-</h1>
+</h3>
 
 
 <div align="center">
