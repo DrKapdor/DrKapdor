@@ -1,6 +1,6 @@
 <h2 align="center">
   Здравствуйте! Меня зовут Константин.<br><br> 
-  <img align="center" src="https://media.discordapp.net/attachments/920397318610636821/1328365626615660706/honestreact.gif?ex=67d58a65&is=67d438e5&hm=cf145c56814e13b6695349c97ad7c4dc30116f9894bd2e9ecc9bd73b03ef2280&=&width=320&height=257">
+  <img align="center" src="https://media.discordapp.net/attachments/920397318610636821/1328365626615660706/honestreact.gif?ex=67d58a65&is=67d438e5&hm=cf145c56814e13b6695349c97ad7c4dc30116f9894bd2e9ecc9bd73b03ef2280&=">
 </h1>
 
 
