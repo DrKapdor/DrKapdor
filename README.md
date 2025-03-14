@@ -1,4 +1,3 @@
-<img align=center src="https://github.com/DrKapdor/DrKapdor/blob/main/flag.gif?raw=true">
 <h3 align="center">
   Здравствуйте! Меня зовут Константин.<br>
 </h3>
