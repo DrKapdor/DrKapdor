@@ -6,7 +6,11 @@
   по направлению <strong>09.03.02 «Информационные системы и технологии»</strong><br> 
   с профилизацией <strong>«Системное программное обеспечение»</strong>.<br><br>
   Имею навыки работы со следующими технологиями:<br><br>
-  <img align="center" height=96 src="https://github.com/DrKapdor/DrKapdor/blob/main/icons/java.png?raw=true">
+  <>
+  <figure>
+    <img align="center" height=96 src="https://github.com/DrKapdor/DrKapdor/blob/main/icons/java.png?raw=true">
+    <figcaption>Ntcn</figcaption>
+  </figure>
   <img align="center" height=96 src="https://github.com/DrKapdor/DrKapdor/blob/main/icons/cpp.png?raw=true">
   <img align="center" height=96 src="https://github.com/DrKapdor/DrKapdor/blob/main/icons/postgres.png?raw=true">
   <img align="center" height=96 src="https://github.com/DrKapdor/DrKapdor/blob/main/icons/networking.png?raw=true">
