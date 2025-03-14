@@ -1,4 +1,4 @@
-<font align="center" size=7>
+<font align="center" size="7">
   Здравствуйте! Меня зовут Константин.<br>
 </font>
 <div id="about" align="center">
