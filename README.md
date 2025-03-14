@@ -3,15 +3,15 @@
 </div>
 
 <div align="center">
-  <span>
+  <h3>
    Являюсь студентом Российского технологического университета<br>
    по направлению <strong>09.03.02 «Информационные системы и технологии»</strong><br> 
    с профилизацией <strong>«Системное программное обеспечение»</strong>.<br><br>
-  </span>
+  </h3>
 </div>
 
 <div align="center">
-  <strong>Обладаю навыками работы со следующими технологиями:</strong><br><br>
+  <h3>Обладаю навыками работы со следующими технологиями:</h3><br><br>
   <img align="center" height=64 src="https://github.com/DrKapdor/DrKapdor/blob/main/icons/java.png?raw=true">
   <img align="center" height=64 src="https://github.com/DrKapdor/DrKapdor/blob/main/icons/cpp.png?raw=true">
   <img align="center" height=64 src="https://github.com/DrKapdor/DrKapdor/blob/main/icons/postgres.png?raw=true">
