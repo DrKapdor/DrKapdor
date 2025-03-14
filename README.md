@@ -1,6 +1,8 @@
+<style>
 #about {
   background-color: white;
 }
+</style>
 
 <h3 align="center">
   Здравствуйте! Меня зовут Константин.<br>
