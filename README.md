@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,arduino,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,arduino,postgres&theme=light)](https://skillicons.dev)
 
 <!--
 **DrKapdor/DrKapdor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
